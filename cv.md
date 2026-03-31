@@ -16,16 +16,15 @@ Coláiste Íde College of Further Education, Physical Education, 2012 to 2013
 
 ## Postgraduate Training
 
-Family Medicine Residency, LSU Health Sciences Center Shreveport
+Family Medicine Residency, Florida State University College of Medicine, 2026 to 2029
 
-General Surgery Residency (AOA), HCA Florida Ocala General Surgery, 2023 to 2024
+General Surgery Preliminary Year, University of Central Forida HCA Florida Ocala Hospital, 2023 to 2024
 
 ## Research Experience
 
 ### Research Assistant
-LSU Health Sciences Center Shreveport, 2024 to present
+LSU Health Sciences Center Shreveport, 2024 to 2026
 
-- Produced six first-author peer-reviewed publications within one year
 - Advanced from contributor to independent investigator
 - Built datasets and analyzed EHR and intraoperative data
 - Led development of an AI-driven MRI pipeline for bone and muscle assessment
@@ -33,7 +32,7 @@ LSU Health Sciences Center Shreveport, 2024 to present
 - Mentored students and founded a Medical Student Research Interest Group
 
 ### Clinical Research Coordinator, Kerecis Real-World Fish Skin Graft Registry (NCT06384183)
-LSU Health Sciences Center Shreveport, 2025 to present
+LSU Health Sciences Center Shreveport, 2025 to 2026
 
 - Supported a multicenter observational study on surgical wound outcomes
 - Assisted with patient consenting, outcomes tracking, data preparation, and team coordination
