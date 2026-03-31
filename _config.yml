@@ -1,0 +1,10 @@
+title: "Christian Quinones, MD"
+description: "Family medicine physician | research, systems, and infrastructure"
+url: "https://cjqu001.github.io"
+baseurl: ""
+
+theme: minima
+
+header_pages:
+  - projects.md
+  - cv.md
