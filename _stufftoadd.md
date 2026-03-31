@@ -1,5 +1,6 @@
 # stuff to add to website
 
-- one thing
-- two thing
-- 
+- msrig website https://msrig-portal-demo.onrender.com
+- x
+- x
+
