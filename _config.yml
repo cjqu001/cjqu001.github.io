@@ -4,6 +4,7 @@ url: "https://cjqu001.github.io"
 baseurl: ""
 
 theme: minima
+markdown: kramdown
 
 header_pages:
   - projects.md
