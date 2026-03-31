@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Projects
 
-### MRI Analysis Pipeline
+### MRI Analysis
 Building automated workflows for DICOM ingestion, segmentation, and quantitative spinal imaging analysis.
 
 ### Research Infrastructure
