@@ -25,24 +25,11 @@ General Surgery Preliminary Year, University of Central Forida HCA Florida Ocala
 ### Research Assistant
 LSU Health Sciences Center Shreveport, 2024 to 2026
 
-- Advanced from contributor to independent investigator
-- Built datasets and analyzed EHR and intraoperative data
-- Led development of an AI-driven MRI pipeline for bone and muscle assessment
-- Coordinated across clinical and technical teams
-- Mentored students and founded a Medical Student Research Interest Group
-
 ### Clinical Research Coordinator, Kerecis Real-World Fish Skin Graft Registry (NCT06384183)
 LSU Health Sciences Center Shreveport, 2025 to 2026
 
-- Supported a multicenter observational study on surgical wound outcomes
-- Assisted with patient consenting, outcomes tracking, data preparation, and team coordination
-
 ### Undergraduate Research Mentor
 LSU Health Sciences Center Shreveport, 2025
-
-- Mentored undergraduate and medical students in spinal imaging research
-- Taught MRI anatomy, DICOM metadata extraction, viewer navigation, and manual segmentation
-- Guided figure development, citations, abstracts, posters, and weekly presentations
 
 ## Additional Experience
 
@@ -53,7 +40,7 @@ LSU Health Sciences Center Shreveport, 2025
 - Medical Scribe, Southeastern Emergency Medicine Association, 2015 to 2018
 - Fisherman, Alaska General Seafoods, 2012
 
-## Selected Publications
+## Recent Publications
 
 - Kinematic analysis of lumbar pedicle screw placement using an artificial intelligence framework. *Neurosurgical Focus*. 2025.
 - Scoping Review of Machine Learning and Patient-Reported Outcomes in Spine Surgery. *Bioengineering*. 2025.
