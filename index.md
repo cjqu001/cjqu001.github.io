@@ -7,9 +7,21 @@ Family medicine resident focused on medical business, human performance, researc
 
 ## Current Focus
 
-- Clinical research systems and automation
-- Medical business and operational strategy
-- Homelab and infrastructure
+1. Clinical research in family medicine
+- Building knowledge systems for family medicine residency
+- Identifying and developing clinical research opportunities in family medicine
+- Designing curricula for medical student and resident research, artificial intelligence, and professional development
+- Training in electronic health record workflows for specialty-specific database development
+
+2. Medical business and software
+- Developing custom clinical software for direct primary care
+- Building custom business software for private investigative services
+- Creating business software for spa repair operations, including customer call management and worker delegation
+
+3. Homelab infrastructure
+- Maintaining a private server with self-hosted cloud services
+- VPN configuration
+- Secure remote access
 
 ## Background
 
