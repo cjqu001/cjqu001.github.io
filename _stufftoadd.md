@@ -10,6 +10,7 @@
 - Quantification of Endplate
 - charles herniation of spinal cord
 - Endplate Bone Quality Assessment for Preoperative Planning and Patient-Specific Implementation in Lumbar Spine Surgery Authors: Wesley Jameson *, Bailey D. Lupo, Andrew Schwartz, Andrew Daigle, Ahmed Anwar, Smith Surendran, Huy Tran, Christian Quinones, Deepak Kumbhare, Bharat Guthikonda, Stanley Hoang Received: 20 Feb 2026
+- "our team page" with mariah and TQ CV
 
 
 Publications
