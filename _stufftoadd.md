@@ -11,7 +11,19 @@
 - charles herniation of spinal cord
 - Endplate Bone Quality Assessment for Preoperative Planning and Patient-Specific Implementation in Lumbar Spine Surgery Authors: Wesley Jameson *, Bailey D. Lupo, Andrew Schwartz, Andrew Daigle, Ahmed Anwar, Smith Surendran, Huy Tran, Christian Quinones, Deepak Kumbhare, Bharat Guthikonda, Stanley Hoang Received: 20 Feb 2026
 - "our team page" with mariah and TQ CV
-
+-in review: Optimal Timing of Cervical Spine Surgery in Polytrauma Patients: A Population Based Study from ACS Level I & II Trauma Centers  https://journals.lww.com/jspinaldisorders/pages/default.aspx
+- other projects (see github):
+(Built a workflow for trimming pickleball video and generating performance statistics, Built a local desktop tool for clinic documentation, patient record management, document intake, metadata extraction, automated file routing, and PDF generation.
+Built an offline document conversion tool that turns PDFs into Markdown, slides, and PPTX outputs.
+Built a utility for merging and normalizing contacts and birthdays across iPhone, Outlook, and Google.
+Built a personal website and public project hub.
+Built a lightweight keyboard shortcut and productivity workflow manager.
+Built a small-business service management app for hot-tub service work.
+Built a workflow for trimming pickleball video and generating performance statistics.
+Built a structured system for organizing family medicine residency learning materials and study progress.
+Built a document conversion utility for turning book or library files into cleaner text or Markdown-based formats.
+Built a private starter web project that appears to be the base for a custom workflow or site.)
+-submitted pending review: "Evaluation of a Clinically Focused Pilot Artificial Intelligence Curriculum for Medical Students Delivered by Near-Peer Instructors" for possible publication in Medical Science Educator
 
 Publications
 ```
@@ -25,6 +37,9 @@ Publications
   Quinones, C., Wilson, J. P., Kumbhare, D., Guthikonda, B., & Hoang, S. (2025). Optimizing Single-Position Prone Lateral Lumbar Interbody Fusion with Exoscopic Technology: A Review of Key Innovations. Journal of Clinical Medicine, 14(4), 1132. https://doi.org/10.3390/jcm14041132
   Quinones, C., Wilson, J. P., Kumbhare, D., Sin, A., Guthikonda, B., & Hoang, S. (2024). Stereotactic navigation for traumatic parafalcine subdural hematoma evacuation: Illustrative cases. Journal of Neurosurgery. Case Lessons, 8(27), CASE24541. https://doi.org/10.3171/CASE24541
   Wilson, J. P., Bonin, B., Quinones, C., Kumbhare, D., Guthikonda, B., & Hoang, S. (2024). Spinal Anesthesia for Awake Spine Surgery: A Paradigm Shift for Enhanced Recovery after Surgery. Journal of Clinical Medicine, 13(17), 5326. https://doi.org/10.3390/jcm13175326
+Jameson WP, Lupo BD, Schwartz AM, Daigle A, Anwar A, Surendran S, Tran H, Quinones C, Kumbhare D, Guthikonda B, et al. Endplate Bone Quality Assessment for Preoperative Planning and Patient-Specific Implementation in Lumbar Spine Surgery. Journal of Clinical Medicine. 2026; 15(7):2800. https://doi.org/10.3390/jcm15072800
+accepted: pending publication: Use of navigation to optimize awake prone lateral interbody fusion with posterior decompression and fusion," submitted to Neurosurgical Focus Video
+editorial: response to editors VBQ
 ```
 
 - next 
