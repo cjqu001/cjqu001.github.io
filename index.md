@@ -3,6 +3,8 @@ layout: home
 title: ""
 ---
 
+<img src="{{ '/HeadShot.jpg' | relative_url }}" alt="Christian J. Quinones, MD" style="float: right; width: 180px; border-radius: 50%; margin: 0 0 1em 1.5em; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+
 Family medicine resident focused on medical business, human performance, research, software development, and scalable systems across healthcare, infrastructure, and independent living.
 
 ## Current Focus
