@@ -4,6 +4,8 @@ title: "CV"
 permalink: /cv/
 ---
 
+[**Download CV (PDF)**]({{ "/cv.pdf" | relative_url }})
+
 ## Education
 
 Doctor of Medicine, Ponce Health Sciences University School of Medicine, 2023
