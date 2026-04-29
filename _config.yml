@@ -9,3 +9,4 @@ markdown: kramdown
 header_pages:
   - projects.md
   - cv.md
+  - qempire.md
