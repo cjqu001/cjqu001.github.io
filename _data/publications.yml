@@ -1,12 +1,21 @@
-# Publications
-# ------------
-# Add a new entry below for each publication. Order doesn't matter — the page
-# groups by status automatically.
+# =============================================================================
+# Publications data — private editing notes
+# =============================================================================
+# This file is the single source of truth for the /publications/ page.
+# The notes in this header are NOT shown on the public site (YAML comments
+# are stripped by Jekyll). Edit this file, commit, and the page rebuilds.
 #
-# Required fields:
+# Add an entry per publication below the `entries:` divider. Order doesn't
+# matter — the page groups and sorts automatically (by year, descending,
+# within each status group).
+#
+# -----------------------------------------------------------------------------
+# Required fields
+# -----------------------------------------------------------------------------
 #   title    : "Paper title"
-#   authors  : "Quinones CJ, Last F, Last F"   # comma-separated; bold yourself
-#   year     : 2026                            # year (or "2026" for in-prep)
+#   authors  : "Quinones CJ, Last F, Last F"   # comma-separated; "Quinones CJ"
+#                                              # is auto-bolded on the page
+#   year     : 2026                            # publication / target year
 #   status   : one of:
 #                published        — accepted and published
 #                in_press         — accepted, awaiting publication
@@ -14,29 +23,29 @@
 #                submitted        — submitted, awaiting first decision
 #                in_preparation   — drafting / not yet submitted
 #
-# Optional fields:
+# -----------------------------------------------------------------------------
+# Optional fields
+# -----------------------------------------------------------------------------
 #   venue    : "Journal name"            # journal / conference
 #   doi      : "10.1234/xyz"             # without the https://doi.org/ prefix
-#   url      : "https://..."             # any link (if no DOI)
+#   url      : "https://..."             # any link (used if no DOI)
 #   pmid     : "12345678"                # PubMed ID
-#   notes    : "First-author"            # any short note shown after the entry
-#   bold_self: true                      # leave true to bold "Quinones CJ" (default)
+#   notes    : "First-author"            # short note shown after the entry
+#   bold_self: false                     # set to disable auto-bolding for this
+#                                        # entry (default: true)
+#
+# -----------------------------------------------------------------------------
+# Template — copy, paste, edit
+# -----------------------------------------------------------------------------
+# - title: ""
+#   authors: "Quinones CJ, "
+#   venue: ""
+#   year: 2026
+#   status: under_review
+#   doi: ""
+#   notes: ""
+# =============================================================================
 
-- title: "Example published paper — replace this entry"
-  authors: "Quinones CJ, Smith AB, Doe CD"
-  venue: "Annals of Family Medicine"
-  year: 2026
-  status: published
-  doi: "10.1234/example"
-  notes: "First-author"
-
-- title: "Example paper currently under peer review"
-  authors: "Quinones CJ, Doe CD"
-  venue: "Journal of Primary Care"
-  year: 2026
-  status: under_review
-
-- title: "Example paper in preparation"
-  authors: "Quinones CJ"
-  year: 2026
-  status: in_preparation
+# Add real publication entries below this line.
+# (List is intentionally empty until first real entry is added.)
+[]

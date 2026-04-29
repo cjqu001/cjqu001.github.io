@@ -8,6 +8,6 @@ markdown: kramdown
 
 header_pages:
   - projects.md
-  - publications.md
+  - publications.html
   - cv.md
   - qempire.md
