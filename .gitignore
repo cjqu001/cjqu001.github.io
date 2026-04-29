@@ -1,2 +1,5 @@
 *.pdf
 *.jpg
+
+# Private running log of publications — local only, never published
+publications-log.md
