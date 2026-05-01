@@ -1,6 +1,6 @@
 ---
 layout: null
-title: "Clinicians with Ambitions"
+title: "CWA"
 permalink: /clinicians-with-ambitions-link/
 sitemap: false
 ---
