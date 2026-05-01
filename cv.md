@@ -35,6 +35,8 @@ LSU Health Sciences Center Shreveport, 2025
 
 ## Additional Experience
 
+- Medical AI Trainer (3D Imaging & Segmentation), OpenAI, 2025 to Present
+
 - Private Investigator Intern, Torres Protection Group, 2023 to 2025
 - Lab Assistant, Addiction Research Lab, Ponce Health Sciences University, 2019 to 2022
 - Multiple Sclerosis Clinical Mentorship Program Mentee, Vanderbilt University, 2021
