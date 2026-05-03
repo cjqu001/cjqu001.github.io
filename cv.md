@@ -83,8 +83,8 @@ LSU Health Sciences Center Shreveport, 2025
 
 ## Professional Memberships and Affiliations
 
-- Q Empire LLC
-- Clinicians with Ambitions
+- [Q Empire LLC](https://cjqu001.github.io/qempire/)
+- [Clinicians with Ambitions LLC](https://cjqu001.github.io/clinicians-with-ambitions/)
 - Alliance of Therapy Dogs
 - American Association of Neurological Surgeons
 - Southern Neurosurgical Society
