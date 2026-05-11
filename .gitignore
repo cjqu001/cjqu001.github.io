@@ -1,5 +1,14 @@
 *.pdf
 *.jpg
+# Allow images that need to deploy
+!qempire/members/*.jpg
+!clinicians-with-ambitions/**/*.jpg
+!HeadShot.jpg
+# Allow specific published PDFs
+!cv.pdf
+!eras app.pdf
+!eras cv.pdf
+!clinicians-with-ambitions/**/*.pdf
 
 # Private running log of publications — local only, never published
 publications-log.md
