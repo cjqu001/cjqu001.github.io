@@ -10,3 +10,9 @@ header_pages:
   - cv.md
   - qempire.md
   - clinicians-with-ambitions.md
+
+# Explicitly include the consolidated subfolder sites so Jekyll deploys them.
+# Without this, the GitHub Pages build excluded them (their contents 404'd).
+include:
+  - clinicians-with-ambitions
+  - qempire
