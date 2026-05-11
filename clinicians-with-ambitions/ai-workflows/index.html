@@ -260,11 +260,11 @@
           <input type="password" placeholder="••••••••" autocomplete="current-password">
         </label>
         <button type="submit" class="btn btn-primary login-btn">Access Library</button>
-        <div class="login-error" id="loginErr" style="display:none">Authentication failed. Access is invite only.</div>
+        <div class="login-error" id="loginErr" style="display:none"></div>
       </form>
       <div class="login-note">
         <span class="login-dot"></span>
-        Invite-only &nbsp;·&nbsp; <a href="../signin/">Request access</a>
+        <a href="../signin/">Don't have an account? Request access →</a>
       </div>
     </div>
   </div>
@@ -281,7 +281,17 @@
 <script>
 function handleLogin(e) {
   e.preventDefault();
-  document.getElementById('loginErr').style.display = 'block';
+  var f = e.target, btn = f.querySelector('button[type=submit]'), err = f.querySelector('#loginErr');
+  var msgs = ["Invalid credentials. Please try again.","Unable to verify account. Check your email and password.","Login failed. Please retry.","Account not found or password incorrect."];
+  var orig = btn.textContent;
+  btn.disabled = true; btn.textContent = 'Verifying…';
+  err.style.display = 'none';
+  setTimeout(function(){
+    err.textContent = msgs[Math.floor(Math.random()*msgs.length)];
+    err.style.display = 'block';
+    btn.disabled = false; btn.textContent = orig;
+    var pw = f.querySelector('input[type=password]'); if (pw) pw.value = '';
+  }, 600 + Math.random()*900);
 }
 </script>
 </body>
